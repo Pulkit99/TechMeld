@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://tech-meld.com",
+    "contentApiKey": "2c15752d8d33c2a26f807483c0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://tech-meld.com",
+    "contentApiKey": "2c15752d8d33c2a26f807483c0"
   }
 }
