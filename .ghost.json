@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://techmeld.herokuapp.com",
+    "apiUrl": "https://techmeld.com",
     "contentApiKey": "3ee8e7d85e6d3c0632686ef258"
   },
   "production": {
-    "apiUrl": "https://techmeld.herokuapp.com",
+    "apiUrl": "https://techmeld.com",
     "contentApiKey": "3ee8e7d85e6d3c0632686ef258"
   }
 }
